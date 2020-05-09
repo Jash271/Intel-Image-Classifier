@@ -10,5 +10,5 @@
     5:'Street'
 
 ## Test Accuracy ~92% 
-## Transfer learning on VGG16
+## Transfer learning with VGG16
 ### Dataset Link : https://www.kaggle.com/puneet6060/intel-image-classification
